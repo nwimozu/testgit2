@@ -1,1 +1,2 @@
-This is my second txt file. I want to make more changes in my git hub
+This is my second txt file. I want to make more changes in my git hub. I love making changes. If I get 
+bored then I will make changes
